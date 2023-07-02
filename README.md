@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **NodeJs**
 - 📗 Backend Developer with NodeJS
 - 🤝 Open for Web Development cooperation
-- 📫 Contact me at**calvienrdtya@gmail.com**
+- 📫 Contact me at **calvienrdtya@gmail.com**
 <h1 align="center"></h1>
 
 <h3 align="left">Connect with me:</h3>
