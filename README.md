@@ -1,5 +1,5 @@
 <h1 align="center">Hello World👋, I'm Calvin Raditya</h1>
-<h3 align="left">A passionate Front-End Developer</h3>
+<h3 align="left">A passionate Web Developer</h3>
 
 
 - 🌱 I’m currently learning **NodeJs**
