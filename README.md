@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/calvinrdtya/calvinrdtya/blob/main/github_gif.gif)
+[![MasterHead](https://github.com/calvinrdtya/calvinrdtya/blob/main/github_gif.gif)](https://github.com/calvinrdtya/)
 <h1 align="center">Hello World👋, I'm Calvin Raditya Sandy</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+Profile+Github;Specializing+in+Frontend+Developer.;+I'm+currently+learning+NodeJs;Backend+Developer+with+NodeJS;Open+for+Web+Development+cooperation;+Contact+me+at+calvienrdtya%40gmail.com" alt="Typing SVG" /></a>
 <h3 align="left">A passionate Web Developer</h3>
