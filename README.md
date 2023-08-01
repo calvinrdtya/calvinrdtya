@@ -1,4 +1,5 @@
-<h1 align="center">Hello World👋, I'm Calvin Raditya</h1>
+![MasterHead](https://github.com/calvinrdtya/calvinrdtya/blob/main/github_gif.gif)
+<h1 align="center">Hello World👋, I'm Calvin Raditya Sandy</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+Profile+Github;Specializing+in+Frontend+Developer.;+I'm+currently+learning+NodeJs;Backend+Developer+with+NodeJS;Open+for+Web+Development+cooperation;+Contact+me+at+calvienrdtya%40gmail.com" alt="Typing SVG" /></a>
 <h3 align="left">A passionate Web Developer</h3>
 
@@ -10,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/calvinrdtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fg" height="30" width="40" /></a>
 <a href="https://instagram.com/clvnnable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clvnnable" height="30" width="40" /></a>
 </p>
 <h1 align="center"></h1>
