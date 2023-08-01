@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/calvinrdtya/calvinrdtya/blob/main/github_gif.gif)](https://github.com/calvinrdtya/)
-<h1 align="center">Hello World👋, I'm Calvin Raditya Sandy</h1>
+<h1 align="center">Hello World, I'm Calvin Raditya Sandy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+Profile+Github;Specializing+in+Frontend+Developer.;+I'm+currently+learning+NodeJs;Backend+Developer+with+NodeJS;Open+for+Web+Development+cooperation;+Contact+me+at+calvienrdtya%40gmail.com" alt="Typing SVG" /></a>
 <h3 align="left">A passionate Web Developer</h3>
 
@@ -35,8 +35,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=calvinrdtya" alt="calvinrdtya" /></a> </p>
 <h1 align="center"></h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=calvinrdtya&show_icons=true&locale=en&layout=compact" alt="calvinrdtya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=calvinrdtya&show_icons=true&locale=en&layout=compact&theme=react&hide_border=false" alt="calvinrdtya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=calvinrdtya&show_icons=true&locale=en" alt="calvinrdtya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=calvinrdtya&show_icons=true&locale=en&theme=react&hide_border=false" alt="calvinrdtya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=calvinrdtya&" alt="calvinrdtya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=calvinrdtya&theme=react&hide_border=false" alt="calvinrdtya" /></p>
