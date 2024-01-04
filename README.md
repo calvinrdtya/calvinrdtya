@@ -1,4 +1,4 @@
-<h2> Hi, I'm Calvin Saditya Sandy! <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="40"></h2>
+<h2> Hi, I'm Calvin Saditya Sandy Winarto! <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="40"></h2>
 <img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="175">
 <p><em>Full Stack Developer <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
 </em></p>
@@ -12,7 +12,7 @@
 const calvin = {
   pronouns: "he",
   code: [HTML, CSS, Javascript, PHP],
-  tools: [MySql, Bootstrap, Laravel, Vue]
+  tools: [Bootstrap, Tailwind, Laravel, Vue, MySql, <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> ]
 }
 ```
 
