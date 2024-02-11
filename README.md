@@ -1,6 +1,6 @@
 <h2> Hi, I'm Calvin Saditya Sandy Winarto! <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="40"></h2>
 <img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="175">
-<p><em>Full Stack Developer
+<p><em>Front End Developer
 </em></p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+Profile+Github;Specializing+in+Frontend+Developer.;Open+for+Web+Development+cooperation;+Contact+me+at+calvienrdtya%40gmail.com;Thank+You,+Nice+To+Meet+You" alt="Typing SVG" /></a>
