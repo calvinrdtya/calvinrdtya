@@ -3,7 +3,7 @@
 <p><em>Front End Developer
 </em></p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+Profile+Github;Specializing+in+Frontend+Developer.;Open+for+Web+Development+cooperation;+Contact+me+at+calvienrdtya%40gmail.com;Thank+You,+Nice+To+Meet+You" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+Profile;Specializing+in+Frontend+Developer.;Open+for+Web+Development+cooperation;+Contact+me+at+calvienrdtya%40gmail.com;Thank+You,+Nice+To+Meet+You" alt="Typing SVG" /></a>
 
 - 📫 Contact me at **calvienrdtya@gmail.com**
 <p align="left">
