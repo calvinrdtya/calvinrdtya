@@ -6,7 +6,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+Profile+Github;Specializing+in+Frontend+Developer.;Open+for+Web+Development+cooperation;+Contact+me+at+calvienrdtya%40gmail.com;Thank+You,+Nice+To+Meet+You" alt="Typing SVG" /></a>
 
 - 📫 Contact me at **calvienrdtya@gmail.com**
-- my Instagram **@clvnnable**
 <p align="left">
 <a href="https://linkedin.com/in/calvinrdtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fg" height="30" width="40" /></a>
 <a href="https://instagram.com/clvnnable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clvnnable" height="30" width="40" /></a>
